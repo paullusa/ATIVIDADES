@@ -14,7 +14,7 @@
         <input id="User" type="text" />
         <br />
         <label for="Mail">E-Mail: </label>
-        <input id="Mail" type="text" />
+        <input id="Mail" type="email" />
         <br />
         <label for="senha">Senha: </label>
         <input id="senha" type="password" />
